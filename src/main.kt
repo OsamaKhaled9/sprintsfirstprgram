@@ -1,6 +1,8 @@
 fun main(){
-    var x = 15
-    var y = 15
+
+    // I've updated the values
+    var x = 8
+    var y = 52
     var sum = x + y
     println(sum)
 
